@@ -56,12 +56,15 @@ Make sure you have the following modules installed:
 
 ```bash
 pip install pillow tkcalendar
+```
 
 ## Run the App
 ```bash
-python Cassettenwusr.py
+python Cassettenwusr.py 
+```
+---
 
-#👨‍💻 Author
+# Author
 
 _**Developed by Kunal R Kumar
 📧 kkumar021104@gmail.com**_
